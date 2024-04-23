@@ -16,7 +16,7 @@ Este podcast de menos de 2 minutos,relata fatos que aconteceram por conta de Fak
 ## 🚀 Resultados
 O episódio relembra fatos acontecidos,medidas tomadas,trazendo esperança como se estivessimos ainda naquela época.
 
-[LINK PARA O PODCAST AQUI]()
+[Link para o podcast](https://github.com/Namibo06/lab-natty-or-not/blob/main/Fake%20News%20na%20%C3%A9poca%20da%20COVID%2019.m4a)
 
 ## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+O projeto te faz perceber como a internet pode ser prejudicial,onde um assunto mentiroso,se passa por verdadeiro trazendo inúmeras consequências
