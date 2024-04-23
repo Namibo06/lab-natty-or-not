@@ -9,7 +9,9 @@ Este podcast de menos de 2 minutos,relata fatos que aconteceram por conta de Fak
 - Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
+"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. 
+"ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração.
+"Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
 
 ## 🚀 Resultados
 O episódio relembra fatos acontecidos,medidas tomadas,trazendo esperança como se estivessimos ainda naquela época.
